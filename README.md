@@ -1,2 +1,2 @@
 # GAN_Piece
-code pieces of GAN on pytorch
+code pieces of Our DHL-Dehaze
